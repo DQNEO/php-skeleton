@@ -1,0 +1,16 @@
+{
+    "name": "dqneo/null",
+    "description": "a skelton package which does nothing at all",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "authors": [
+        {
+            "name": "DQNEO",
+            "email": "dqneoo@gmail.com"
+        }
+    ],
+    "license": "MIT"
+}
