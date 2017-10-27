@@ -1,6 +1,6 @@
 {
     "name": "dqneo/null",
-    "description": "a skelton package which does nothing at all",
+    "description": "a skeleton package which does nothing at all",
     "type": "library",
     "require": {},
     "require-dev": {

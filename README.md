@@ -1,2 +1,12 @@
 # dqneo/null
-a package skelton for PHP
+
+a package skeleton for PHP
+
+## What is this?
+
+This package is meant to be a good example of a modern PHP package.
+
+## Influenced by
+
+* https://github.com/guzzle/guzzle
+* https://github.com/composer/composer
