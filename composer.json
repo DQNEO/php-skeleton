@@ -18,6 +18,9 @@
             "DQNEO\\Skeleton\\": "tests/"
         }
     },
+    "bin" : [
+        "skeleton"
+    ],
     "authors": [
         {
             "name": "DQNEO",
