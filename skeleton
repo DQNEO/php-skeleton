@@ -1,3 +1,3 @@
 #!/usr/bin/env php
 <?php
-echo "skeleton" . PHP_EOL;
+echo "dqneo/skeleton" . PHP_EOL;
