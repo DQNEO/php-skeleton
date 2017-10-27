@@ -6,6 +6,16 @@
     "require-dev": {
         "phpunit/phpunit": "6.*"
     },
+    "autoload": {
+        "psr-4" : {
+            "DQNEO\\Skeleton\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4" : {
+            "DQNEO\\Skeleton\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "DQNEO",
