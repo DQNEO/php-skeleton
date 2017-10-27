@@ -1,5 +1,5 @@
 {
-    "name": "dqneo/null",
+    "name": "dqneo/skeleton",
     "description": "a skeleton package which does nothing at all",
     "type": "library",
     "require": {},

@@ -1,4 +1,4 @@
-# dqneo/null
+# dqneo/skeleton
 
 a package skeleton for PHP
 
