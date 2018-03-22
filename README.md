@@ -7,7 +7,7 @@ a package skeleton for modern PHP
 
 ## What is this?
 
-This package is meant to be a good example of a modern PHP package.
+A good example of a modern PHP package.
 
 ## Influenced by
 
