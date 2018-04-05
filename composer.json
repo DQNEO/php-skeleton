@@ -22,6 +22,10 @@
     "bin" : [
         "skeleton"
     ],
+    "scripts": {
+        "test": "phpunit",
+        "cs-fix": "php-cs-fixer fix"
+    },
     "authors": [
         {
             "name": "DQNEO",
